@@ -17,7 +17,7 @@
   •
   <a href="mailto:dmayes77@gmail.com">Email</a>
   •
-  <a href="https://davidmayes.dev">Portfolio</a> (Coming Soon)
+  <a href="https://davidmayes.dev">Portfolio</a>
 </p>
 
 ---
