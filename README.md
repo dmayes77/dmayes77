@@ -1,67 +1,48 @@
-<!-- ========================================= -->
-<!-- Hero -->
-<!-- ========================================= -->
+<p align="center">
+  <img src="./assets/david-mayes-profile-banner.png" alt="David Mayes" width="100%">
+</p>
 
-# Hi, I'm David Mayes 👋
+<h1 align="center">Hi, I'm David Mayes 👋</h1>
 
-### Full-Stack Software Engineer
+<p align="center">
+  <strong>Full-Stack Software Engineer • SaaS Developer • UI/UX Designer</strong>
+</p>
 
-I design and build modern, production-ready web applications that combine clean architecture, exceptional user experience, and scalable engineering. My primary focus is developing full-stack applications with **Next.js, React, JavaScript, Supabase, and PostgreSQL**.
+<p align="center">
+  I build modern, production-ready web applications that combine clean architecture, scalable engineering, and exceptional user experiences.
+</p>
 
-Currently building production software while expanding a portfolio of modern SaaS platforms and business applications.
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 CLIX MX
-**Production-ready membership platform**
-
-A premium marketing and membership platform designed for a vehicle care business.
-
-**Built with**
-- Next.js App Router
-- React
-- JavaScript
-- Supabase
-- PostgreSQL
-- Server Actions
-- Vercel
-
-**Highlights**
-- Responsive mobile-first interface
-- Authentication
-- Lead management
-- Admin dashboard
-- Conversion-focused UX
+<p align="center">
+  <a href="https://linkedin.com/in/davidamayes">LinkedIn</a>
+  •
+  <a href="mailto:dmayes77@gmail.com">Email</a>
+  •
+  Portfolio (Coming Soon)
+</p>
 
 ---
 
-### 🏠 InspectOS *(Active Development)*
+# 🚀 About Me
 
-A modern SaaS platform for home inspection companies.
+I'm a full-stack software engineer passionate about designing and building scalable SaaS platforms and modern web applications.
 
-**Highlights**
-- Multi-tenant architecture
-- Inspection workflows
-- Photo management
-- Dashboard analytics
-- Role-based permissions
-- Responsive workspace
+My work focuses on creating software that is:
 
----
+- Scalable
+- Maintainable
+- Responsive
+- Accessible
+- Business focused
 
-### 🌐 Personal Portfolio *(Coming Soon)*
-
-A portfolio focused on engineering case studies, UI/UX design, and production-ready web applications.
+I primarily build with **Next.js**, **React**, **JavaScript**, **Supabase**, and **PostgreSQL**, while emphasizing clean architecture, reusable components, and intuitive user experiences.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Core Technologies
 
-## Frontend
+### Frontend
 
-- Next.js
+- Next.js (App Router)
 - React
 - JavaScript (ES6+)
 - HTML5
@@ -69,13 +50,13 @@ A portfolio focused on engineering case studies, UI/UX design, and production-re
 - Tailwind CSS
 - Material UI
 
-## Backend
+### Backend
 
 - Node.js
 - Server Actions
 - REST APIs
 
-## Database
+### Database
 
 - Supabase
 - PostgreSQL
@@ -84,7 +65,7 @@ A portfolio focused on engineering case studies, UI/UX design, and production-re
 - MySQL
 - MongoDB
 
-## Cloud & Developer Tools
+### Cloud & Developer Tools
 
 - Git
 - GitHub
@@ -95,41 +76,121 @@ A portfolio focused on engineering case studies, UI/UX design, and production-re
 
 ---
 
+# 🚀 Featured Projects
+
+## 🚗 CLIX MX
+
+**Premium membership platform for mobile vehicle care.**
+
+### Highlights
+
+- Responsive mobile-first experience
+- Secure authentication
+- Lead management dashboard
+- Admin portal
+- Conversion-focused UX
+- Production-ready architecture
+
+### Built With
+
+- Next.js
+- React
+- JavaScript
+- Supabase
+- PostgreSQL
+- Server Actions
+- Vercel
+
+---
+
+## 🏠 InspectOS _(Active Development)_
+
+**Multi-tenant SaaS platform built for home inspection companies.**
+
+### Highlights
+
+- Multi-tenant architecture
+- Inspection workflows
+- Dashboard analytics
+- Photo management
+- Role-based permissions
+- Responsive workspace
+
+---
+
+## 🌐 Personal Portfolio
+
+A modern portfolio showcasing engineering case studies, UI/UX design, and production-ready software projects.
+
+---
+
 # 🎯 Current Focus
 
-- Building scalable SaaS applications
-- Designing clean software architecture
-- Developing reusable component systems
-- Creating exceptional user experiences
-- Optimizing performance and accessibility
+I'm currently focused on:
+
+- Building scalable SaaS platforms
+- Modern Next.js architecture
+- Responsive UI/UX design
+- Component-driven development
+- Performance optimization
+- Accessibility
+- Clean software architecture
 
 ---
 
 # 💡 Engineering Philosophy
 
-I believe great software should be:
+I believe great software balances engineering excellence with exceptional user experience.
 
-- Clean
-- Maintainable
-- Scalable
-- Accessible
-- Performance focused
+Every project I build is guided by four principles:
 
-Every public repository reflects these principles through thoughtful architecture, reusable components, responsive design, and clear documentation.
+- Clean Architecture
+- Reusable Components
+- Scalable Systems
+- Thoughtful Design
 
----
+Whether developing internal business software, SaaS platforms, or customer-facing applications, my goal is always the same:
 
-# 📫 Connect
-
-📧 **Email**  
-**dmayes77@gmail.com**
-
-💼 **LinkedIn**  
-https://linkedin.com/in/davidamayes
-
-🌐 **Portfolio**  
-Coming Soon
+**Build digital solutions that solve real problems and create value.**
 
 ---
 
-> *"Building software that is thoughtful, scalable, and designed to solve real business problems."*
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=dmayes77&show_icons=true&hide_border=true&rank_icon=github"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmayes77&layout=compact&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+**Email**
+
+📧 dmayes77@gmail.com
+
+**LinkedIn**
+
+💼 https://linkedin.com/in/davidamayes
+
+**Portfolio**
+
+🌐 Coming Soon
+
+---
+
+<p align="center">
+
+> _"I build digital solutions that solve real problems and create value."_
+
+</p>
