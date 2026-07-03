@@ -155,24 +155,6 @@ Whether developing internal business software, SaaS platforms, or customer-facin
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dmayes77&hide_border=true"
-    alt="David Mayes GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  Consistently building, refining, and documenting production-ready web applications.
-</p>
-
----
-
----
-
 # 📫 Let's Connect
 
 **Email**
